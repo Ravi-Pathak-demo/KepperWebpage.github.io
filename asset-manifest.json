@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/KepperWebpage.github.io/static/js/main.1a43b0f2.chunk.js",
+    "main.js.map": "/KepperWebpage.github.io/static/js/main.1a43b0f2.chunk.js.map",
+    "runtime-main.js": "/KepperWebpage.github.io/static/js/runtime-main.48574b91.js",
+    "runtime-main.js.map": "/KepperWebpage.github.io/static/js/runtime-main.48574b91.js.map",
+    "static/js/2.72aa472d.chunk.js": "/KepperWebpage.github.io/static/js/2.72aa472d.chunk.js",
+    "static/js/2.72aa472d.chunk.js.map": "/KepperWebpage.github.io/static/js/2.72aa472d.chunk.js.map",
+    "index.html": "/KepperWebpage.github.io/index.html",
+    "precache-manifest.10d70592b6d44065588e670aac15dba6.js": "/KepperWebpage.github.io/precache-manifest.10d70592b6d44065588e670aac15dba6.js",
+    "service-worker.js": "/KepperWebpage.github.io/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48574b91.js",
+    "static/js/2.72aa472d.chunk.js",
+    "static/js/main.1a43b0f2.chunk.js"
+  ]
+}
